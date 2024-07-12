@@ -1,5 +1,5 @@
 # Olympic
-
+# My slides is: hackthon_Nancy Shih_Submit.pdf
 Dataset \
 Kaggle: 120 years of Olympic history: athletes and results \
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results \

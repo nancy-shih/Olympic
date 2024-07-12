@@ -1,6 +1,7 @@
 # Olympic
-# My slides is: [hackthon_Nancy Shih_Submit.pdf](https://github.com/nancy-shih/Olympic/blob/69399450228fbfa8573c93905cad3d50a0db07a2/hackthon_Nancy%20Shih_Submit.pdf)
 # My Presentation is: [hackthon presentation Nancy Shih](https://youtu.be/_xXNfMEkmbc)
+# My slides is: [hackthon_Nancy Shih_Submit.pdf](https://github.com/nancy-shih/Olympic/blob/69399450228fbfa8573c93905cad3d50a0db07a2/hackthon_Nancy%20Shih_Submit.pdf)
+
 Dataset \
 Kaggle: 120 years of Olympic history: athletes and results \
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results \
